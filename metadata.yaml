@@ -1,0 +1,34 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-3--of-12-Dresden-Edition-Lectures_38803
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Bob
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+tableOfContents: Shakespeare -- Robert Burns -- Abraham Lincoln -- Voltaire -- Liberty
+  in literature -- The great infidels -- Conclusion -- Which way? -- About the holy
+  Bible.
+title: "The Works of Robert G. Ingersoll, Vol. 03 (of 12)\r\nDresden Edition—Lectures"
+url: http://www.gutenberg.org/ebooks/38803
